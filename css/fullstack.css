@@ -1,0 +1,39 @@
+body{
+	 background-image: url("../images/Web_12.jpg");
+	
+}
+
+h1{
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	font-size: 4em;
+	
+	
+}
+
+h2{
+	text-align: center;
+	
+}
+
+h3{
+	text-align: center;
+	
+	
+}
+
+h4{
+	text-align: center;
+}
+
+
+hr {
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #FFFF00;
+}
